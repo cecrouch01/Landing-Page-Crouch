@@ -1,5 +1,6 @@
 *{
-
+    font: Helvetica;
+    font-family:  Helvetica, Arial, sans-serif;
 }
 header {
     position: relative;
@@ -8,7 +9,7 @@ header {
 nav ul {
     list-style-type: none;
     position: absolute;
-    left: 36%;
+    left: 32%;
 }
 
 nav ul li {
