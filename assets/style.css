@@ -2,8 +2,15 @@
     font: Helvetica;
     font-family:  Helvetica, Arial, sans-serif;
     color: white;
-    background-color: grey;
+}
 
+body {
+    background-color: gray;
+}
+
+header{
+    background-color: green; 
+    width: 80%; 
 }
 
 a {
@@ -24,15 +31,33 @@ nav ul {
 
 nav ul li {
     display: inline;
+}
 
-    }
-#biography {
+article p {
     background-color: green;
+    padding: 20px;
+    margin: 5px;
+    width: 75%;
+    height: 100%;
+}
 
+article h3 {
+    border: 10px black;
+    background-color: green;
+    width: 25%;
 }
 
 img {
     width: 500px;
     height: 500px;
-    }
+}
+
+button {
+    color: black;
+}
+
+form {
+    background-color: green;
+    margin: 10px;
+}
 
