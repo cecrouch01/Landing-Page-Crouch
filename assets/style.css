@@ -1,18 +1,38 @@
 *{
     font: Helvetica;
     font-family:  Helvetica, Arial, sans-serif;
+    color: white;
+    background-color: grey;
+
 }
-header {
-    position: relative;
-    left: 42%;
+
+a {
+    color: white;
 }
+
+nav {
+    background-color: green;
+    margin: 10px;
+    padding: 20px;
+    width: 50%;
+    height: 100%;
+}
+
 nav ul {
     list-style-type: none;
-    position: absolute;
-    left: 32%;
 }
 
 nav ul li {
     display: inline;
 
     }
+#biography {
+    background-color: green;
+
+}
+
+img {
+    width: 500px;
+    height: 500px;
+    }
+
